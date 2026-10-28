@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/ChatPanel.tsx","./src/components/CommandList.tsx","./src/components/ModelSelector.tsx","./src/components/SettingsPanel.tsx","./src/hooks/useAssistant.ts","./src/hooks/useVoice.ts","./src/services/api.ts"],"version":"5.6.3"}
